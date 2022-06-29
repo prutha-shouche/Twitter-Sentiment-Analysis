@@ -23,4 +23,5 @@ We have taken a labeled dataset of 31,962 tweets for training the models. Each l
 ## Algorithm Used:
 
 Logistic Regression
- with Accuracy of Approx 95%
+ 
+ - with Accuracy of Approx 95%
