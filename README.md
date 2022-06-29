@@ -10,11 +10,15 @@ We have taken a labeled dataset of 31,962 tweets for training the models. Each l
 
 ## Libraries
 
--pandas
--numpy
--matplotlib
--seaborn
--scikit-learn
+- pandas
+
+- numpy
+
+- matplotlib
+
+- seaborn
+
+- scikit-learn
 
 ## Algorithm Used:
 
